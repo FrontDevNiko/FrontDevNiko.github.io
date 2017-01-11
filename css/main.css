@@ -147,6 +147,35 @@ body {
   text-align: center;
 }
 /* Down timer*/
+.girl {
+	margin: 20px 0 -10px 0;
+	background: url(../img/viber.png);
+	background-size: cover;
+}
+
+.pp {
+	/*margin: 0 0 12px 0;*/
+	padding-top: 20px;
+	color: #fff;
+	text-align: center;
+	font-size: 25px;
+}
+
+.info-txt {
+	padding: 20px 10px;
+	color: #fff;
+	font-size: 18px;
+	text-align: center;
+	text-shadow: 0 0 20px white;
+	line-height: 25px;
+}
+
+/*.girl img {
+	width: 150px;
+	border-radius: 50%;
+	padding: 10px;
+}*/
+
 .footer {
 	margin-bottom: -10px;
 }
