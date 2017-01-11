@@ -1,0 +1,154 @@
+* {
+	text-decoration: none;
+}
+
+body {
+	background-color: #ededed;
+}
+
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+.main-header {
+	margin: -10px 0 -10px 0;
+}
+
+.main-header h3 {
+	text-align: center;
+	color: #fff;
+	background: #b5d0ff;
+	padding: 10px 0 10px 0;
+}
+
+.header-fluid {
+	background: #4289f4;
+	min-height: 120px;
+}
+
+.txt {
+	font-size: 50px;
+	text-align: center;
+	color: #fff;
+	padding-top: 20px;
+}
+
+.container-fluid {
+	background: #ededed;
+	min-height: 100%;
+	margin-bottom: -20px;
+}
+
+.container-fluid .row{
+	padding: 10px 0 10px 0;
+}
+
+.carousel img {
+	width: 500px;
+}
+
+.carousel-inner img{
+	margin: auto;
+	border-radius: 50%;
+	width: 75%;
+}
+
+.carousel-control {
+	/*all: unset;*/
+	box-shadow: none;
+}
+
+.row .social {
+	background: #272822;
+	min-height: 50px;
+	color: #fff;
+	padding: 15px;
+	font-size: 17px;
+	width: 100%;
+}
+
+.row .social i{
+	color: #9fcaff;
+	font-size: 25px;
+}
+
+.social a {
+	color: #fff;
+}
+
+#A, #K {
+	color: #fff;
+	border-right: 1px solid #828282;
+	cursor: pointer;
+}
+
+#I {
+	color: #fff;
+	cursor: pointer;
+}
+
+.mapss {
+	background: #b2a3ff;
+	margin: 10px 0 10px 0;
+}
+
+.mapss p {
+	color: #fff;
+	text-align: center;
+	font-size: 25px;
+	padding-top: 10px;
+}
+
+.mapss iframe {
+	margin: 0 2.5% 0 2.5%;
+	padding-bottom: 10px;
+}
+/* Up timer*/
+.counter {
+  background: #2C2C2C;
+  -moz-box-shadow:    inset 0 0 5px #000000;
+  -webkit-box-shadow: inset 0 0 5px #000000;
+  box-shadow:         inset 0 0 5px #000000;
+  text-align: center;
+}
+
+.counter h2 {
+  color: #E5E5E5;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+}
+
+#countdown {
+  color: #FFFFFF;
+  padding-bottom: 10px;
+}
+
+#countdown span {
+  color: #E5E5E5;
+  font-size: 26px;
+  font-weight: normal;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+/* Down timer*/
+.footer {
+	margin-bottom: -10px;
+}
+
+.footer h5 {
+	color: #fff;
+	text-align: center;
+	background: #4289f4;
+	min-height: 50px;
+	padding: 10px 0 10px 0;
+}
