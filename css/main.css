@@ -23,6 +23,7 @@ body {
 	color: #fff;
 	background: #b5d0ff;
 	padding: 10px 0 10px 0;
+	text-shadow: 0 0 20px black;
 }
 
 .header-fluid {
@@ -35,6 +36,7 @@ body {
 	text-align: center;
 	color: #fff;
 	padding-top: 20px;
+	text-shadow: 0 0 30px red;
 }
 
 .container-fluid {
@@ -84,11 +86,13 @@ body {
 	color: #fff;
 	border-right: 1px solid #828282;
 	cursor: pointer;
+	text-shadow: 0 0 20px #fff;
 }
 
 #I {
 	color: #fff;
 	cursor: pointer;
+	text-shadow: 0 0 20px #fff;
 }
 
 .mapss {
@@ -101,6 +105,7 @@ body {
 	text-align: center;
 	font-size: 25px;
 	padding-top: 10px;
+	text-shadow: 0 0 20px black;
 }
 
 .mapss iframe {
@@ -125,6 +130,7 @@ body {
   letter-spacing: 1px;
   padding-top: 20px;
   margin-bottom: 20px;
+  text-shadow: 0 0 20px #fff;
 }
 
 #countdown {
